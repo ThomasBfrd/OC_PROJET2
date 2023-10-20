@@ -1,0 +1,20 @@
+.fa-solid {
+    color: var(--main-color);
+}
+
+.fa-star {
+    color: var(--main-bg-color);
+    cursor: pointer;
+}
+
+.filled {
+    color: var(--main-color);
+}
+
+.fa-star:hover {
+    color: var(--main-color);
+}
+
+.euro {
+    font-weight: 700;
+}
