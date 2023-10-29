@@ -46,10 +46,6 @@ a {
     color: var(--main-color);
 }
 
-.fa-star:hover {
-    color: var(--main-color);
-}
-
 .euro {
     font-weight: 700;
 }
